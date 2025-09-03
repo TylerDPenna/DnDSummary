@@ -18,5 +18,5 @@
 **Natural Weapons.**
 	You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your Unarmed Strike to deal damage with that new growth, it deals 1d6 damage of the type in parentheses instead of dealing the normal damage for your Unarmed Strike, and you use your spellcasting ability modifier for the attack and damage rolls rather than using Strength.
 
-**Spell Cost**:
+**Spell Cost**: #NoCost 
 Available for: #SorcererSpell #WizardSpell
