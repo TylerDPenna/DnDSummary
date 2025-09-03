@@ -1,3 +1,5 @@
 [[Monsters]]
 
+[[Necrotic]]
+
 #Undead 
