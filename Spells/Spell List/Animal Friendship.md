@@ -6,7 +6,7 @@
 **Target**: A Beast visible within range
 **Components**: #Verbal #Somatic #Material 
 **Duration**: 24 hours
-**Attack/Save**: #Wisdom
+**Attack/Save**: #WisdomThrow
 **Damage/Effect**: [[Charmed]]
 
 **Spell Description**: 
