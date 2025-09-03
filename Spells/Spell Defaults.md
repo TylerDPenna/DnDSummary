@@ -3,7 +3,7 @@
 **Spell** Type: 
 **Casting** Time:
 **Range**:
-**Area of Effect**: 5 foot radius
+**Target**:
 **Components**:
 **Duration**:
 **Attack/Save**:

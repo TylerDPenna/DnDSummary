@@ -3,8 +3,8 @@
 **Spell** Type: #Cantrip
 **Casting** Time: #Action
 **Range**: 60 feet
-**Area of Effect**: 5 foot radius
-**Components**: #Verbal, #Somantic
+**Target**: 5 foot radius around cast location
+**Components**: #Verbal, #Somatic
 **Duration**: Instantaneous
 **Attack/Save**: #DexterityThrow
 **Damage/Effect**: 1d6 #AcidDamage 

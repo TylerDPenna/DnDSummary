@@ -1,10 +1,10 @@
 [[Spells]]
 
 **Spell** Type: #Level2
-**Casting** Time:
-**Range**:
-**Area of Effect**: 5 foot radius
-**Components**:
+**Casting** Time: #Action
+**Range**: 60 feet
+**Target**: up to 3 creatures within range
+**Components**: #Verbal, #Somatic
 **Duration**:
 **Attack/Save**:
 **Damage/Effect**:
