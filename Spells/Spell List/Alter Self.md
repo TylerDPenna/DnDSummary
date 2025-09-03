@@ -2,7 +2,7 @@
 
 **Spell** Type:  #Level2 #Transmutation
 **Casting** Time: #Action
-**Target**: Self
+**Target**: #Self
 **Components**: #Verbal #Somatic
 **Duration**: #Concentration, up to 1 hour
 
