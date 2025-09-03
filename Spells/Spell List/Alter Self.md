@@ -7,7 +7,7 @@
 **Duration**: #Concentration, up to 1 hour
 
 **Spell Description**: 
-You alter your physical form. Choose one of the following options. Its effects last for the duration, during which you can take a Magic action to replace the option you chose with a different one.
+	You alter your physical form. Choose one of the following options. Its effects last for the duration, during which you can take a Magic action to replace the option you chose with a different one.
 
 **Aquatic Adaptation.**
 	You sprout gills and grow webs between your fingers. You can breathe underwater and gain a Swim Speed equal to your Speed.
