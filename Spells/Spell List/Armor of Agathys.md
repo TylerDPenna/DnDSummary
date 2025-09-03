@@ -11,4 +11,4 @@
 	**Using a Higher-Level Spell Slot**. The Temporary Hit Points and the Cold damage both increase by 5 for each spell slot level above 1.
 
 **Spell Cost**: a shard of blue glass
-**Available for**:
+**Available for**: #WarlockSpell 
