@@ -1,4 +1,4 @@
-While you have the Charmed [[Condition]], you experience the following effects:
+While you have the Charmed [[Conditions]], you experience the following effects:
 
 **Can't Harm the Charmer.**
 	You can't attack the charmer or target the charmer with damaging abilities or magical effects.

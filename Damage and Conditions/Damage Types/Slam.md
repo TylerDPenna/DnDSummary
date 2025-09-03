@@ -1,1 +1,1 @@
-[[Damage]]
+[[Damage Types]]
