@@ -4,7 +4,7 @@
 **Casting** Time: #Action
 **Range**: 60 feet
 **Target**: up to 3 creatures within range
-**Components**: #Verbal, #Somatic
+**Components**: #Verbal, #Somatic, #Material 
 **Duration**: 8 hours
 
 **Spell Description**: 
