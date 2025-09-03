@@ -3,7 +3,7 @@
 **Spell** Type: #Level3 #Necromancy
 **Casting** Time: 1 minute
 **Range**: 10 feet
-**Target**: Medium
+**Target**: Medium or Small humanoid bones
 **Components**:
 **Duration**:
 **Attack/Save**:
