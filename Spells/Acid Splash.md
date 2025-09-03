@@ -1,4 +1,4 @@
-Spell Type: 
+Spell Type: #Cantrip
 Spell Level:
 Casting Time:
 Range: 
@@ -14,4 +14,4 @@ Spell Description:
 
 
 Spell Cost: 
-Available for: 
+Available for: #Sorcerer, #Wizard
