@@ -6,7 +6,7 @@
 **Target**: A Tiny Beast visible within range
 **Components**: #Verbal #Somatic #Material 
 **Duration**: 24 hours
-**Attack/Save**: #CharismaThrow
+**Attack/Save**: #CharismaSave
 **Damage/Effect**:
 
 **Spell Description**: 

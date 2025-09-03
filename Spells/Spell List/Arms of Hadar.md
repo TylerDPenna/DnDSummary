@@ -5,7 +5,7 @@
 **Target**: #Self 
 **Components**: #Verbal #Somatic 
 **Duration**: Instantaneous
-**Attack/Save**: #StrengthThrow
+**Attack/Save**: #StrengthSave
 **Damage/Effect**: 2d6 [[Necrotic]]
 
 **Spell Description**: 

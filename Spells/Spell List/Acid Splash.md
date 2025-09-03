@@ -6,7 +6,7 @@
 **Target**: 5 foot radius around cast location
 **Components**: #Verbal #Somatic
 **Duration**: Instantaneous
-**Attack/Save**: #DexterityThrow
+**Attack/Save**: #DexteritySave
 **Damage/Effect**: 1d6 [[Acid]]
 
 **Spell Description**: 

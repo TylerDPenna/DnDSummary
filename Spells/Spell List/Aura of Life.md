@@ -6,7 +6,7 @@
 **Components**: #Verbal 
 **Duration**: #Concentration up to 10 minutes
 **Attack/Save**:
-**Damage/Effect**:
+**Damage/Effect**: #NecroticResistance
 
 **Spell Description**: 
 	
