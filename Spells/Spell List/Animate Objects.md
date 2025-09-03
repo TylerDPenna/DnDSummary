@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level5
+**Spell** Type: #Level5 #Transmutation 
 **Casting** Time: #Action 
 **Range**: 120 feet
 **Target**: Non-magical objects within range
@@ -10,5 +10,5 @@
 **Spell Description**: 
 	
 
-**Spell Cost**:
-**Available for**:
+**Spell Cost**: #NoCost 
+**Available for**: #BardSpell #SorcererSpell #WizardSpell 
