@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Cantrip
+**Spell** Type: #Cantrip, #Evocation
 **Casting** Time: #Action
 **Range**: 60 feet
 **Target**: 5 foot radius around cast location
@@ -16,4 +16,4 @@ You create an acidic bubble at a point within range, where it explodes in a 5-fo
 when you reach levels 5 (2d6),11 (3d6), and 17 (4d6).
 
 **Spell Cost**: #NoCost
-Available for: #SorcererSpell, #WizardSpell
+**Available for**: #SorcererSpell, #WizardSpell

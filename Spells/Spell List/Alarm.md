@@ -1,6 +1,6 @@
-#default 
+[[Spells]]
 
-**Spell** Type: 
+**Spell** Type: #level2, #Abjuration
 **Casting** Time:
 **Range**:
 **Target**:
