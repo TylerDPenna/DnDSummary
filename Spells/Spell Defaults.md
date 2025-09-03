@@ -10,7 +10,7 @@
 **Damage/Effect**:
 
 **Spell Description**: 
-
+	
 
 **Spell Cost**:
 **Available for**:

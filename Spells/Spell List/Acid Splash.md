@@ -1,10 +1,10 @@
 [[Spells]]
 
-**Spell** Type: #Cantrip, #Evocation
+**Spell** Type: #Cantrip #Evocation
 **Casting** Time: #Action
 **Range**: 60 feet
 **Target**: 5 foot radius around cast location
-**Components**: #Verbal, #Somatic
+**Components**: #Verbal #Somatic
 **Duration**: Instantaneous
 **Attack/Save**: #DexterityThrow
 **Damage/Effect**: 1d6 #AcidDamage 
@@ -16,4 +16,4 @@
 when you reach levels 5 (2d6),11 (3d6), and 17 (4d6).
 
 **Spell Cost**: #NoCost
-**Available for**: #SorcererSpell, #WizardSpell
+**Available for**: #SorcererSpell #WizardSpell

@@ -1,10 +1,10 @@
 [[Spells]]
 
-**Spell** Type: #level2, #Abjuration
+**Spell** Type: #level2 #Abjuration
 **Casting** Time: #Action 
 **Range**: 30 feet
 **Target**: Door, Window or area within range smaller than 20 foot cube
-**Components**: #Verbal , #Somatic , #Material
+**Components**: #Verbal #Somatic #Material
 **Duration**: 8 hours
 
 **Spell Description**: 
@@ -17,4 +17,4 @@
 	You are alerted by a mental ping if you are within l mile of the warded area. This ping awakens you if you're asleep.
 
 **Spell Cost**: a bell and a silver wire
-**Available for**: #RangerSpell , #WizardSpell 
+**Available for**: #RangerSpell #WizardSpell 
