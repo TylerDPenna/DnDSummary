@@ -3,7 +3,7 @@
 **Spell** Type: #Level4 #Abjuration 
 **Casting** Time: #Action 
 **Range**: 30 feet
-**Target**: #Self 
+**Target**: #Self, allies in range
 **Components**: #Verbal 
 **Duration**: #Concentration up to 10 minutes
 **Damage/Effect**: #PoisonResistance
