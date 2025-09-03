@@ -6,7 +6,6 @@
 **Target**: #Self , allies within 30 feet
 **Components**: #Verbal 
 **Duration**: #Concentration up to 10 minutes
-**Attack/Save**:
 **Damage/Effect**: #NecroticResistance
 
 **Spell Description**: 
