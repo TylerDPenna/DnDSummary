@@ -81,6 +81,4 @@ A range usually takes one of the following forms:
 - **Touch.** The spell's effect originates on something the spellcaster must touch, as defined in the spell.
 - **Self.** The spell is cast on the spellcaster or emanates from them, as specified in the spell. If a spell has movable effects, they aren't restricted by its range unless the spell's description says otherwise.
 
-
-
-[[Acid Splash]], [[Aid]], [[Alarm]], [[Alter Self]], [[Animal Friendship]], [[Animal Messenger]], [[Animal Shapes (Wild Shape)]], [[Animate Dead]], [[Animate Objects]], [[AntiLife Shell]], [[Antimagic Field]], [[Antipathy or Sympathy]], [[Arcane Eye]], [[Arcane Gate]], [[Arcane Lock]], [[Arcane Vigor]], [[Armor of Agathys]]
+[[Acid Splash]], [[Aid]], [[Alarm]], [[Alter Self]], [[Animal Friendship]], [[Animal Messenger]], [[Animal Shapes (Wild Shape)]], [[Animate Dead]], [[Animate Objects]], [[AntiLife Shell]], [[Antimagic Field]], [[Antipathy or Sympathy]], [[Arcane Eye]], [[Arcane Gate]], [[Arcane Lock]], [[Arcane Vigor]], [[Armor of Agathys]], [[Arms of Hadar]], [[Astral Projection]], [[Augury]], [[Aura of Life]], [[Aura of Purity]]

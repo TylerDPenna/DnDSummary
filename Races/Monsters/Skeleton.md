@@ -1,3 +1,2 @@
 [[Monsters]]
-
-#Undead 
+[[Undead]]
