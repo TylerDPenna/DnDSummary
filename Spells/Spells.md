@@ -1,1 +1,1 @@
-[[Acid Splash]], [[Aid]], [[Alarm]], [[Alter Self]], [[Animal Friendship]], [[Animal Messenger]], [[Animal Shapes (Wild Shape)]], [[Animate Dead]], [[Animate Objects]], [[AntiLife Shell]], [[Antimagic Field]], [[Antipathy or Sympathy]], [[Arcane Eye]], [[Arcane Gate]]
+[[Acid Splash]], [[Aid]], [[Alarm]], [[Alter Self]], [[Animal Friendship]], [[Animal Messenger]], [[Animal Shapes (Wild Shape)]], [[Animate Dead]], [[Animate Objects]], [[AntiLife Shell]], [[Antimagic Field]], [[Antipathy or Sympathy]], [[Arcane Eye]], [[Arcane Gate]], [[Arcane Lock]]
