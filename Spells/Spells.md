@@ -14,6 +14,7 @@ If you have a list of level 1+ spells you prepare, your spellcasting feature spe
 | Sorcerer  | Gain a level         | One              |
 | Warlock   | Gain a level         | One              |
 | Wizard    | Finish a Long Rest   | Any              |
+
 Most spellcasting monsters don't change their lists of prepared spells, but the DM is free to alter them.
 
 ## Always-Prepared Spells
