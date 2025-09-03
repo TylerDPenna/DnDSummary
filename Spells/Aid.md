@@ -1,6 +1,6 @@
-#default 
+[[Spells]]
 
-**Spell** Type: 
+**Spell** Type: #Level2
 **Casting** Time:
 **Range**:
 **Area of Effect**: 5 foot radius
