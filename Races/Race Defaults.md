@@ -1,5 +1,5 @@
 ---
-nodesize: 6
+node_size: 60
 ---
 #default
 
