@@ -14,4 +14,4 @@ Choose up to three creatures within range. Each target's Hit Point maximum and c
 Points increase by 5 for each spell slot level above 2.
 
 **Spell Cost**: A strip of white cloth
-**Available for**:
+**Available for**: #BardSpell, #ClericSpell, #DruidSpell, #PaladinSpell, #RangerSpell
