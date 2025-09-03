@@ -1,10 +1,10 @@
 #default
 
-
 # Spell Name
 Spell Level:
 Casting Time:
 Range: 
+Area of Effect: 
 Components:
 Duration:
 School:
