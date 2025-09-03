@@ -1,4 +1,4 @@
-#default 
+[[Spells]] 
 
 **Spell** Type: #Level5 #Transmutation 
 **Casting** Time: 8 hours
