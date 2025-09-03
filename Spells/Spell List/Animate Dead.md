@@ -5,7 +5,7 @@
 **Range**: 10 feet
 **Target**: Medium or Small humanoid bones
 **Components**: #Verbal #Somatic #Material 
-**Duration**:
+**Duration**: Instantaneous
 **Attack/Save**:
 **Damage/Effect**:
 
