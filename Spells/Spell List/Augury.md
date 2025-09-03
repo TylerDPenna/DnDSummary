@@ -4,7 +4,7 @@
 **Casting** Time: 1 minute or #Ritual 
 **Target**: #Self 
 **Components**: #Verbal #Somatic #Material 
-**Duration**:
+**Duration**: Instantaneous
 **Attack/Save**:
 **Damage/Effect**:
 
