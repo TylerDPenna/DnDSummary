@@ -1,12 +1,10 @@
 Spell Type: #Cantrip
-Spell Level:
-Casting Time:
-Range: 
-Area of Effect: 
-Components:
-Duration:
-School:
-Attack/Save:
+Casting Time: #Action
+Range: 60 feet
+Area of Effect: 5 foot radius
+Components: #Verbal, #Somantic
+Duration: Instantaneous
+Attack/Save: #DexterityThrow
 Damage/Effect:
 
 Spell Description: 
@@ -14,4 +12,4 @@ Spell Description:
 
 
 Spell Cost: 
-Available for: #Sorcerer, #Wizard
+Available for: #SorcererSpell, #WizardSpell

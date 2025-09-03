@@ -1,3 +1,5 @@
+#default 
+
 Spell Type: 
 Spell Level:
 Casting Time:
