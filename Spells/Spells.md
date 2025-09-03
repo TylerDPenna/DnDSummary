@@ -21,7 +21,6 @@ Certain features might give you a spell that you always have prepared. If you al
 
 >Casting in Armour
 >	You must have training with any armour you are wearing to cast spells while wearing it. You are otherwise too hampered by the armour for spellcasting.
-
 # Casting Spells
 Each spell description has a series of entries that provide the details needed to cast the spell. The following sections explain each of those entries, which follow a spell's name.
 
@@ -81,4 +80,71 @@ A range usually takes one of the following forms:
 - **Touch.** The spell's effect originates on something the spellcaster must touch, as defined in the spell.
 - **Self.** The spell is cast on the spellcaster or emanates from them, as specified in the spell. If a spell has movable effects, they aren't restricted by its range unless the spell's description says otherwise.
 
-[[Acid Splash]], [[Aid]], [[Alarm]], [[Alter Self]], [[Animal Friendship]], [[Animal Messenger]], [[Animal Shapes (Wild Shape)]], [[Animate Dead]], [[Animate Objects]], [[AntiLife Shell]], [[Antimagic Field]], [[Antipathy or Sympathy]], [[Arcane Eye]], [[Arcane Gate]], [[Arcane Lock]], [[Arcane Vigor]], [[Armor of Agathys]], [[Arms of Hadar]], [[Astral Projection]], [[Augury]], [[Aura of Life]], [[Aura of Purity]], [[Aura of Vitality]]
+## Components
+A spell's components are physical requirements the spellcaster must meet to cast the spell. Each spell's description indicates whether it requires Verbal (V), Somatic (S), or Material (M) components. if the spellcaster can't provide one or more of a spell's components, the spellcaster can't cast the spell.
+### Verbal (V)
+A Verbal component is the chanting of esoteric words that sound like nonsense to the uninitiated. The words must be uttered in a normal speaking voice. The words themselves aren't the source of the spell's power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a creature who is gagged or in an area of magical silence can't cast a spell with a Verbal component.
+### Somatic (S)
+A Somatic component is a forceful gesticulation or an intricate set of gestures. A spellcaster must use at least one of their hands to perform these movements.
+### Material (M)
+A Material component is a particular material used in a spell's casting, as specified in parentheses in the Components entry. These materials aren't consumed by the spell unless the spell's description states otherwise. The spellcaster must have a hand free to access them, but it can be the same hand used to perform Somatic components, if any. 
+
+If a spell doesn't consume its materials and doesn't specify a cost for them, a spellcaster can use a [[Component Pouch]] instead of providing the materials specified in the spell, or the spellcaster can substitute a Spellcasting Focus if the caster has a feature that allows that substitution. To use a Component Pouch, you must have a hand free to reach into it, and to use a Spellcasting Focus, you must hold it unless its description says otherwise.
+
+>Creating Verbal Components
+>	lf you'd like to say a spell's Verbal component, you may make up the words. However you make them, the goal is to create something that's easy to say and that doesn't mean anything in the real world. Consider this method: take the name of the spell, keep only one instance of each of its letters, and rearrange the remaining letters into words. For example, remove the second l from Fireball and rearrange the remaining letters to create *Ber Fila or Fel Bira.*
+
+## Duration
+A spell's duration is the length of time the spell persists after it is cast. A duration typically takes one of the following forms:
+
+- **Concentration.** A duration that requires Concentration follows the Concentration rules (see the rules glossary).
+- **Instantaneous.** An instantaneous duration means the spell's magic appears only for a moment and then disappears.
+- **Time Span.** A duration that provides a time span specifies how long the spell lasts in rounds, minutes, hours, or the like. For example, a Duration entry might say "1 minute," meaning the spell ends after I minute has passed. While a time-span spell that you cast is ongoing, you can dismiss it (no action required) if you don't have the Incapacitated condition.
+
+## Effects
+The effects of a spell are detailed after its duration entry. Those details present exactly what the spell does, which ignores mundane physical laws; any outcomes beyond those effects are under the DM's purview. Whatever the effects, they typically deal with targets, saving throws, attack rolls, or all three, each of which is detailed below.
+### Targets
+A typical spell requires the caster to pick one or more targets to be affected by the spell's magic. A spell's description says whether the spell targets creatures, objects, or something else.
+
+- **A Clear Path to the Target.** To target something with a spell, a caster must have a clear path to it, so it can't be behind Total Cover.
+- **Targeting Yourself.** If a spell targets a creature of your choice, you can choose yourself unless the creature must be Hostile or specifically a creature other than you.
+- **Areas of Effect.** Some spells, such as Thunderwave, cover an area called an area of effect, which is defined in the rules glossary. The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: Cone, Cube, Cylinder, Emanation, Line, or Sphere.
+- **Awareness of Being Targeted.** Unless a spell has a perceptible effect, a creature doesn't know it was targeted by the spell. An effect like lightning is obvious, but a more subtle effect, such as an attempt to read thoughts, goes unnoticed unless a spell's description says otherwise.
+- **Invalid Targets.** If you cast a spell on someone or something that can't be affected by it, nothing happens to that target, but if you used a spell slot to cast the spell, the slot is still expended. If the spell normally has no effect on a target that succeeds on a saving throw, the invalid target appears to have succeeded on its saving throw, even though it didn't attempt one (giving no hint that the creature is an invalid target). Otherwise, you perceive that the spell did nothing to the target.
+### Saving Throws
+Many spells specify that a target makes a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure. Here's how to calculate the DC for your spells:
+**Spell save DC** = 8 + your spellcasting ability modifier + your Proficiency Bonus
+### Attack Rolls
+Some spells require the caster to make an attack roll to determine whether the spell hits a target. Here's how to calculate the attack modifier for your spells:
+**Spell attack modifier** = your spellcasting ability modifier + your Proficiency Bonus
+### Combining Spell Effects
+The effects of different spells add together while their durations overlap. In contrast, the effects of the same spell cast multiple times don't combine. Instead, the most potent effect-such as the highest bonus-from those castings applies while their durations overlap. The most recent effect applies if the castings are equally potent and their durations overlap. For example, if two Clerics cast Bless on the same target, that target gains the spell's benefit only once; the target doesn't receive two bonus dice. But if the durations of the spells overlap, the effect continues until the duration of the second Bless ends.
+
+>Identifying an Ongoing Spell
+>	You can try to identify a non-instantaneous spell by its observable effects if its duration is ongoing, To identify it, you must take the Study action and succeed on a DC 15 Intelligence (Arcana) check.
+
+## A List of Spells
+### A
+[[Acid Splash]]
+[[Aid]]
+[[Alarm]]
+[[Alter Self]]
+[[Animal Friendship]]
+[[Animal Messenger]]
+[[Animal Shapes (Wild Shape)]]
+[[Animate Dead]]
+[[Animate Objects]]
+[[AntiLife Shell]]
+[[Antimagic Field]]
+[[Antipathy or Sympathy]]
+[[Arcane Eye]]
+[[Arcane Gate]]
+[[Arcane Lock]]
+[[Arcane Vigor]]
+[[Armor of Agathys]]
+[[Arms of Hadar]]
+[[Astral Projection]]
+[[Augury]]
+[[Aura of Life]]
+[[Aura of Purity]]
+[[Aura of Vitality]]
