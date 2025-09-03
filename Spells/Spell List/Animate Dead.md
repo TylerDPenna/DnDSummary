@@ -4,7 +4,7 @@
 **Casting** Time: 1 minute
 **Range**: 10 feet
 **Target**: Medium or Small humanoid bones
-**Components**:
+**Components**: #Verbal #Somatic #Material 
 **Duration**:
 **Attack/Save**:
 **Damage/Effect**:
@@ -12,5 +12,5 @@
 **Spell Description**: 
 	
 
-**Spell Cost**:
+**Spell Cost**: A drop of blood, 
 **Available for**:
