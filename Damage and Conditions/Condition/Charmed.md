@@ -1,9 +1,3 @@
----
-aliases:
-  - Charmed, Charm
----
-
-
 While you have the Charmed [[Conditions]], you experience the following effects:
 
 **Can't Harm the Charmer.**
