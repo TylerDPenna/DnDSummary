@@ -13,4 +13,4 @@
 
 
 **Spell Cost**:
-Available for:
+**Available for**:
