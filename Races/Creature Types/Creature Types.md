@@ -1,1 +1,1 @@
-[[Constructs]], [[Undead]]
+[[Aberration]], [[Elemental]], [[Monstrosity]], [[Beast]], [[Fey]], [[Ooze]], [[Celestial]], [[Fiend]], [[Plant]], [[Construct]], [[Giant]], [[Undead]], [[Dragon]], [[Humanoid]]
