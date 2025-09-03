@@ -5,7 +5,7 @@
 **Range**: 60 feet
 **Target**: up to 3 creatures within range
 **Components**: #Verbal, #Somatic
-**Duration**:
+**Duration**: 8 hours
 **Attack/Save**:
 **Damage/Effect**:
 
@@ -13,4 +13,4 @@
 
 
 **Spell Cost**:
-Available for:
+**Available for**:
