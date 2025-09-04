@@ -244,5 +244,5 @@ The effects of different spells add together while their durations overlap. In c
 [[Drawmij's Instant SUmmons]]
 [[Dream]]
 [[Druidcraft]]
-###E
+### E
 [[Earthquake]]
