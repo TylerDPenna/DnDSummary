@@ -1,7 +1,7 @@
 [[Spells]]
 
 **Spell** Type: #Level4 #Divination
-**Casting** Time: #Action 
+**Casting Time**: #Action 
 **Range**: 30 feet
 **Components**: #Verbal #Somatic #Material 
 **Duration**: #Concentration, up to 1 hour 

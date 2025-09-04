@@ -1,7 +1,7 @@
 [[Spells]]
 
 **Spell** Type: #Level5 #Transmutation 
-**Casting** Time: #Action 
+**Casting Time**: #Action 
 **Range**: 120 feet
 **Target**: Non-magical objects within range
 **Components**: #Verbal #Somatic 

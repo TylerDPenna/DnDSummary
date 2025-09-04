@@ -1,7 +1,7 @@
 [[Spells]]
 
 **Spell** Type:  #Level2 #Transmutation
-**Casting** Time: #Action
+**Casting Time**: #Action
 **Target**: #Self
 **Components**: #Verbal #Somatic
 **Duration**: #Concentration, up to 1 hour

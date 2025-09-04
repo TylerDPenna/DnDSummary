@@ -1,7 +1,7 @@
 [[Spells]]
 
 **Spell** Type: #Level2 #Abjuration 
-**Casting** Time: #Action
+**Casting Time**: #Action
 **Range**: 60 feet
 **Target**: up to 3 creatures within range
 **Components**: #Verbal #Somatic #Material 

@@ -1,7 +1,7 @@
 [[Spells]]
 
 **Spell** Type: #Level8 #Enchantment 
-**Casting** Time: 1 hour
+**Casting Time**: 1 hour
 **Range**: 60 feet
 **Target**: One Huge or smaller object or creature
 **Components**: #Verbal #Somatic #Material 

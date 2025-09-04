@@ -1,7 +1,7 @@
 #default 
 
 **Spell** Type: 
-**Casting** Time:
+**Casting Time**:
 **Range**:
 **Target**:
 **Components**:

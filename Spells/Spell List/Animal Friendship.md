@@ -1,7 +1,7 @@
 [[Spells]] 
 
 **Spell** Type: #Level1, #Enchantment
-**Casting** Time: #Action 
+**Casting Time**: #Action 
 **Range**: 30 feet
 **Target**: A [[Beast]] visible within range
 **Components**: #Verbal #Somatic #Material 
