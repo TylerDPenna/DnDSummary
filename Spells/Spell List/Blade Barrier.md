@@ -1,7 +1,7 @@
 [[Spells]]
 
 **Spell** Type: #Level6 #Evocation 
-**Casting** Time: #Action 
+**Casting Time**: #Action 
 **Range**: 90 feet
 **Components**: #Verbal #Somatic 
 **Duration**: #Concentration up to 10 minutes

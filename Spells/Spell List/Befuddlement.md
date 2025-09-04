@@ -1,7 +1,7 @@
 [[Spells]]
 
 **Spell** Type: #Level8 #Enchantment 
-**Casting** Time: #Action 
+**Casting Time**: #Action 
 **Range**: 150 feet
 **Target**: A visible creature
 **Components**: #Verbal #Somatic #Material 

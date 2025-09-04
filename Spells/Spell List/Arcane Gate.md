@@ -1,7 +1,7 @@
 [[Spells]] 
 
 **Spell** Type: #Level6 #Conjuration
-**Casting** Time: #Action 
+**Casting Time**: #Action 
 **Range**: 500 feet
 **Target**: Two Large unoccupied spaces
 **Components**: #Verbal #Somatic 

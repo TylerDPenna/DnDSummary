@@ -1,7 +1,7 @@
 [[Spells]] 
 
 **Spell** Type: #Level2 #Abjuration 
-**Casting** Time: #BonusAction
+**Casting Time**: #BonusAction
 **Target**: #Self 
 **Components**: #Verbal #Somatic 
 **Duration**: Instantaneous

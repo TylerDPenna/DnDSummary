@@ -1,7 +1,7 @@
 [[Spells]]
 
 **Spell** Type:  #Level3 #Abjuration 
-**Casting** Time: #Action 
+**Casting Time**: #Action 
 **Range**: #Touch 
 **Target**: A willing [[Beast]]
 **Components**: #Somatic 

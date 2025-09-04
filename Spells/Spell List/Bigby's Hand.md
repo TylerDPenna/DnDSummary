@@ -1,7 +1,7 @@
 [[Spells]]
 
 **Spell** Type: #Level5 #Evocation 
-**Casting** Time: #Action 
+**Casting Time**: #Action 
 **Range**: 120 feet
 **Target**: Unoccupied space within range
 **Components**: #Verbal #Somatic #Material 

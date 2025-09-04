@@ -1,7 +1,7 @@
 [[Spells]]
 
 **Spell** Type: #Level2 #Abjuration 
-**Casting** Time: #Action 
+**Casting Time**: #Action 
 **Range**: #Touch
 **Target**: A closed object
 **Components**: #Verbal #Somatic #Material 

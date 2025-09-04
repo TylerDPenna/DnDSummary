@@ -1,7 +1,7 @@
 [[Spells]]
 
 **Spell** Type: #Level9 #Necromancy 
-**Casting** Time: 1 hour
+**Casting Time**: 1 hour
 **Range**: 10 feet
 **Target**: up to 8 willing creatures within range
 **Components**: #Verbal #Somatic #Material 

@@ -1,7 +1,7 @@
 [[Spells]] 
 
 **Spell** Type: #Level2 #Transmutation 
-**Casting** Time: #BonusAction 
+**Casting Time**: #BonusAction 
 **Range**: #Touch 
 **Target**: a willing
 **Components**: #Verbal #Somatic #Material 
