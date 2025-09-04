@@ -155,7 +155,7 @@ The effects of different spells add together while their durations overlap. In c
 [[Banishing Smite]]
 [[Banishment]]
 [[Barkskin]]
-[[Beacon of Hope]]
+[[Beacon Of Hope]]
 [[Beast Sense]]
 [[Befuddlement]]
 [[Bestow Curse]]
