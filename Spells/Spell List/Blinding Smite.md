@@ -2,12 +2,11 @@
 
 **Spell** Type: #Level3 #Evocation 
 **Casting Time**: #BonusAction which you take immediately after hitting a creature with a melee weapon or an Unarmed Strike
-**Range**:
-**Target**:
-**Components**:
-**Duration**:
+**Target**: #Self 
+**Components**: #Verbal 
+**Duration**: 1 minute
 **Attack/Save**:
-**Damage/Effect**:
+**Damage/Effect**: 3d9 [[Radiant]], [[Blinded]]
 
 **Spell Description**: 
 	
