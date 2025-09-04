@@ -20,5 +20,5 @@ Clenched Fist increases by 2d8 and the damage of
 the Grasping Hand increases by 2d6 for each spell
 slot level above 5.
 
-**Spell Cost**:
-**Available for**:
+**Spell Cost**: an eggshell and a glove
+**Available for**: #SorcererSpell #WizardSpell 
