@@ -10,7 +10,7 @@
 | **Duration**:      | 24 hours                              |
 | **Attack/Save**:   | #CharismaSave                         |
 
-# Spell Description: : 
+# Spell Description: 
 A Tiny [[Beast]] of your choice that you can see within range must succeed on a #Charisma saving throw, or it attempts to deliver a message for you (if the target's Challenge Rating isn't 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as;
 
 "a person dressed in the uniform of the town guard", or
