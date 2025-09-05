@@ -5,7 +5,6 @@
 | **Spell Type**:    | #Level3 #Necromancy           |
 | **Casting Time**:  | #Action                       |
 | **Range**:         | #Touch                        |
-| **Target**:        |                               |
 | **Components**:    | #Verbal #Somatic              |
 | **Duration**:      | #Concentration up to 1 minute |
 | **Attack/Save**:   | #WisdomSave                   |
@@ -21,4 +20,5 @@ You touch a creature, which must succeed on a Wisdom saving throw or become curs
 **Using a Higher-Level Spell Slot**. If you cast this spell using a level 4 spell slot, you can maintain Concentration on it for up to 10 minutes. If you use a level 5* spell slot, the spell doesn't require Concentration, and the duration becomes 8 hours (level 5-6 slot) or 24 hours (level 7-8 slot). If you use a level 9 spell slot, the spell lasts until dispelled.
 
 **Spell Cost**: #NoCost 
+
 **Available for**: #BardSpell #ClericSpell #WizardSpell 

@@ -16,4 +16,5 @@
 	On a successful save, the target takes half as much damage only
 
 **Spell Cost**: a key ring with no keys
+
 **Available for**: #BardSpell #DruidSpell #WarlockSpell #WizardSpell 
