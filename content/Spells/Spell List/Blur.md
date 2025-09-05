@@ -15,5 +15,4 @@ Your body becomes blurred. For the duration, any creature has Disadvantage on at
 # Spell Cost:
 #NoCost 
 
-
 **Available for**: #SorcererSpell #WizardSpell 
