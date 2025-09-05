@@ -1,17 +1,15 @@
 [[Spells]]
 
-|     |     |
-| --- | --- |
-|     |     |
+| **Spell Type**:    |     |
+| ------------------ | --- |
+| **Casting Time**:  |     |
+| **Range**:         |     |
+| **Target**:        |     |
+| **Components**:    |     |
+| **Duration**:      |     |
+| **Attack/Save**:   |     |
+| **Damage/Effect**: |     |
 
-**Spell Type**: 
-**Casting Time**:
-**Range**:
-**Target**:
-**Components**:
-**Duration**:
-**Attack/Save**:
-**Damage/Effect**:
 
 **Spell Description**: 
 	
