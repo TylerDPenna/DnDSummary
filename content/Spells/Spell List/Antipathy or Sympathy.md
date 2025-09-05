@@ -21,7 +21,8 @@ As you cast the spell, choose whether it creates antipathy or sympathy, and targ
 	The creature has the [[Charmed]] condition. The [[Charmed]] creature must use its movement on its turns to get as close as possible to the target, moving by the safest route. If the creature is within 5 feet of the target, the creature can't willingly move away. If the target damages the [[Charmed]] creature, that creature can make a Wisdom saving throw to end the effect, as described below.
 
 **Ending the Effect**. 
-	lf the Frightened or [[Charmed]] creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again.
+	If the Frightened or [[Charmed]] creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again.
 
 **Spell Cost**: a mix of vinegar and honey
+
 **Available for**: #BardSpell #DruidSpell #WizardSpell 
