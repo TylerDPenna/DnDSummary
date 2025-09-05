@@ -9,7 +9,7 @@
 **Attack/Save**: #Wisdom 
 **Damage/Effect**: [[Frightened]] or [[Charmed]]
 
-**Spell Description**: 
+# Spell Description: : 
 	As you cast the spell, choose whether it creates antipathy or sympathy, and target one creature or object that is Huge or smaller. Then specify a kind of creature, such as red dragons, goblins, or vampires. A creature of the chosen kind makes a Wisdom saving throw when it comes within 120 feet of the target. Your choice of antipathy or sympathy deter mines what happens to a creature when it fails that save:
 	**Antipathy**. The creature has the Frightened condition. The Frightened creature must use its movement on its turns to get as far away as possible from the target, moving by the safest route.
 	**Sympathy**.

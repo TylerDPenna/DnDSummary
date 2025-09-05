@@ -9,7 +9,7 @@
 **Attack/Save**: #DexteritySave
 **Damage/Effect**: 1d6 [[Acid]]
 
-**Spell Description**: 
+# Spell Description: : 
 	You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity saving throw or take 1d6 Acid damage.
 
 **Cantrip Upgrade.** The damage increases by 1d6

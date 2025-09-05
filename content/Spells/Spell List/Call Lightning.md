@@ -12,7 +12,7 @@
 | **Damage/Effect**: | 3d10 [[Lightning]]                             |
 
 
-# Spell Description 
+# Spell Description:
 
 
 # Spell Cost:

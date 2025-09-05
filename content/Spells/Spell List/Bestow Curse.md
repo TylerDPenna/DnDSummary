@@ -8,7 +8,7 @@
 **Attack/Save**: #WisdomSave 
 **Damage/Effect**: [[Curse]], 1d8 [[Necrotic]]
 
-**Spell Description**: 
+# Spell Description: : 
 	You touch a creature, which must succeed on a Wisdom saving throw or become cursed for the duration. Until the curse ends, the target suffers one of the following effects of your choice:
 - The target has Disadvantage on ability checks and saving throws made with that ability,
 - The target has Disadvantage on attack rolls against you.

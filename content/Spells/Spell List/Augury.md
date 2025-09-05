@@ -6,7 +6,7 @@
 **Components**: #Verbal #Somatic #Material 
 **Duration**: Instantaneous
 
-**Spell Description**: 
+# Spell Description: : 
 	You receive an omen from an otherworldly entity about the results of a course of action that you plan to take within the next 30 minutes. The DM chooses the omen from the Omens table.
 
 | Omen         | For results that will be |
