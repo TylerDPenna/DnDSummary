@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level1 #Evocation 
+**Spell Type**: #Level1 #Evocation 
 **Casting Time**: #Action 
 **Range**: 15 foot cone
 **Target**: #Self 

@@ -1,6 +1,6 @@
 [[Spells]] 
 
-**Spell** Type: #Level4 #Necromancy 
+**Spell Type**: #Level4 #Necromancy 
 **Casting Time**: #Action 
 **Range**: 30 feet
 **Target**: A creature visible within range

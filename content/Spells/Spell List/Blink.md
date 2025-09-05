@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level3 #Transmutation 
+**Spell Type**: #Level3 #Transmutation 
 **Casting Time**: #Action 
 **Range**: 60 feet
 **Target**: #Self 

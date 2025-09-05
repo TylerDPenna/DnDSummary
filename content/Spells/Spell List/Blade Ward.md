@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Cantrip #Abjuration 
+**Spell Type**: #Cantrip #Abjuration 
 **Casting Time**: #Action 
 **Target**: #Self 
 **Components**: #Verbal #Somatic 

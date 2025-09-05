@@ -1,6 +1,10 @@
 [[Spells]]
 
-**Spell** Type: 
+|     |     |
+| --- | --- |
+|     |     |
+
+**Spell Type**: 
 **Casting Time**:
 **Range**:
 **Target**:

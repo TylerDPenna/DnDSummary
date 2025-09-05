@@ -1,6 +1,6 @@
 [[Spells]] 
 
-**Spell** Type: #Level2 #Transmutation 
+**Spell Type**: #Level2 #Transmutation 
 **Casting Time**: #BonusAction 
 **Range**: #Touch 
 **Target**: a willing

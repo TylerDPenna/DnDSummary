@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level3 #Abjuration 
+**Spell Type**: #Level3 #Abjuration 
 **Casting Time**: #Action 
 **Range**: 30 feet
 **Target**: #Self, allies in range 

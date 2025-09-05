@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level4 #Abjuration 
+**Spell Type**: #Level4 #Abjuration 
 **Casting Time**: #Action 
 **Range**: 30 feet
 **Target**: One visible creature

@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level1 #Enchantment 
+**Spell Type**: #Level1 #Enchantment 
 **Casting Time**: #Action 
 **Range**: 30 feet
 **Target**: 3 creatures of your choice that are visible in range

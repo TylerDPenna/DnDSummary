@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level4 #Divination
+**Spell Type**: #Level4 #Divination
 **Casting Time**: #Action 
 **Range**: 30 feet
 **Components**: #Verbal #Somatic #Material 

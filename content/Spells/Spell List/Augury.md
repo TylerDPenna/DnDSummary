@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level2 #Divination 
+**Spell Type**: #Level2 #Divination 
 **Casting Time**: 1 minute or #Ritual 
 **Target**: #Self 
 **Components**: #Verbal #Somatic #Material 

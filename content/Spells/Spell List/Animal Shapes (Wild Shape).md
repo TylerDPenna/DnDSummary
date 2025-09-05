@@ -1,6 +1,6 @@
 [[Spells]] 
 
-**Spell** Type: #Level8 #Transmutation 
+**Spell Type**: #Level8 #Transmutation 
 **Casting Time**: #Action 
 **Range**: 30 feet
 **Target**: Any number of willing creatures in visible range

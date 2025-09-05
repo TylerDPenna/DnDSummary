@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type:  #Level3 #Abjuration 
+**Spell Type**:  #Level3 #Abjuration 
 **Casting Time**: #Action 
 **Range**: #Touch 
 **Target**: A willing [[Beast]]

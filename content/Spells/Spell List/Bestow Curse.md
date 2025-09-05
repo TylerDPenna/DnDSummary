@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level3 #Necromancy 
+**Spell Type**: #Level3 #Necromancy 
 **Casting Time**: #Action 
 **Range**: #Touch 
 **Components**: #Verbal #Somatic 

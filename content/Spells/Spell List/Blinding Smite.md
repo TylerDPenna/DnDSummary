@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level3 #Evocation 
+**Spell Type**: #Level3 #Evocation 
 **Casting Time**: #BonusAction which you take immediately after hitting a creature with a melee weapon or an Unarmed Strike
 **Target**: #Self 
 **Components**: #Verbal 

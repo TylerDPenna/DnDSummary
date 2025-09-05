@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level2 #Illusion
+**Spell Type**: #Level2 #Illusion
 **Casting Time**: #Action 
 **Target**: #Self 
 **Components**: #Verbal 

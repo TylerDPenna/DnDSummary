@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level8 #Enchantment 
+**Spell Type**: #Level8 #Enchantment 
 **Casting Time**: #Action 
 **Range**: 150 feet
 **Target**: A visible creature

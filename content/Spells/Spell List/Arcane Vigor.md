@@ -1,6 +1,6 @@
 [[Spells]] 
 
-**Spell** Type: #Level2 #Abjuration 
+**Spell Type**: #Level2 #Abjuration 
 **Casting Time**: #BonusAction
 **Target**: #Self 
 **Components**: #Verbal #Somatic 

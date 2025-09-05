@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level1 #Conjuration 
+**Spell Type**: #Level1 #Conjuration 
 **Casting Time**: #BonusAction 
 **Target**: #Self 
 **Components**: #Verbal #Somatic 

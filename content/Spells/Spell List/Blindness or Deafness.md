@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level2 #Transmutation 
+**Spell Type**: #Level2 #Transmutation 
 **Casting Time**: #Action 
 **Range**: 120 feet
 **Target**: One creature within visible range

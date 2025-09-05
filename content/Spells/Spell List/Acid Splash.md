@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Cantrip #Evocation
+**Spell Type**: #Cantrip #Evocation
 **Casting Time**: #Action
 **Range**: 60 feet
 **Target**: 5 foot radius around cast location

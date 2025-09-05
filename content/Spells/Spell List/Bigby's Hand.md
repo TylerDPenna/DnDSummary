@@ -1,6 +1,6 @@
 [[Spells]]
 
-**Spell** Type: #Level5 #Evocation 
+**Spell Type**: #Level5 #Evocation 
 **Casting Time**: #Action 
 **Range**: 120 feet
 **Target**: Unoccupied space within range

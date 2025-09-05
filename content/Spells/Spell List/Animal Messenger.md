@@ -1,6 +1,6 @@
 [[Spells]] 
 
-**Spell** Type: #Level2 #Enchantment 
+**Spell Type**: #Level2 #Enchantment 
 **Casting Time**: #Action or #Ritual
 **Range**: 30 feet
 **Target**: A Tiny [[Beast]] visible within range

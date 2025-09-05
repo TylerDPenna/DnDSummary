@@ -1,6 +1,6 @@
 [[Spells]] 
 
-**Spell** Type: #Level8 #Abjuration 
+**Spell Type**: #Level8 #Abjuration 
 **Casting Time**: #Action 
 **Target**: #Self 
 **Components**: #Verbal #Somatic #Material 

@@ -1,6 +1,6 @@
 [[Spells]] 
 
-**Spell** Type: #Level5 #Transmutation 
+**Spell Type**: #Level5 #Transmutation 
 **Casting Time**: 8 hours
 **Target**: #Touch, must be a [[Beast]] or [[Plant]] creature with INT of 3 or less or a normal plant
 **Components**: #Verbal #Somatic #Material 
