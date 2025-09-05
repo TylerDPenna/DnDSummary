@@ -12,8 +12,8 @@
 | **Damage/Effect**: |       |
 
 
-**Spell Description**: 
+# Spell Description 
 	
 
-**Spell Cost**:
-**Available for**:
+# Spell Cost:
+Available for:
