@@ -15,5 +15,6 @@
 # Spell Description:
 
 
-# Spell Cost:
+Spell Cost: #NoCost 
+
 Available for: #DruidSpell 

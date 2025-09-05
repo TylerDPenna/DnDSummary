@@ -16,5 +16,6 @@ A thin sheet of flames shoots forth from you. Each creature in a 15-foot Cone ma
 
 **Using a Higher-Level Spell Slot**. The damage increases by 1d6 for each spell slot level above 1.
 
-# Spell Cost: #NoCost 
+Spell Cost: #NoCost 
+
 **Available for**: #SorcererSpell #WizardSpell 
