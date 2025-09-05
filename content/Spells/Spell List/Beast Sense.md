@@ -1,5 +1,16 @@
 [[Spells]]
 
+| Attributes         | Value |
+| ------------------ | ----- |
+| **Spell Type**:    |       |
+| **Casting Time**:  |       |
+| **Range**:         |       |
+| **Target**:        |       |
+| **Components**:    |       |
+| **Duration**:      |       |
+| **Attack/Save**:   |       |
+| **Damage/Effect**: |       |
+
 **Spell Type**:  #Level3 #Abjuration 
 **Casting Time**: #Action 
 **Range**: #Touch 

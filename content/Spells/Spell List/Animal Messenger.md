@@ -1,5 +1,16 @@
 [[Spells]] 
 
+| Attributes         | Value |
+| ------------------ | ----- |
+| **Spell Type**:    |       |
+| **Casting Time**:  |       |
+| **Range**:         |       |
+| **Target**:        |       |
+| **Components**:    |       |
+| **Duration**:      |       |
+| **Attack/Save**:   |       |
+| **Damage/Effect**: |       |
+
 **Spell Type**: #Level2 #Enchantment 
 **Casting Time**: #Action or #Ritual
 **Range**: 30 feet

@@ -1,5 +1,16 @@
 [[Spells]] 
 
+| Attributes         | Value |
+| ------------------ | ----- |
+| **Spell Type**:    |       |
+| **Casting Time**:  |       |
+| **Range**:         |       |
+| **Target**:        |       |
+| **Components**:    |       |
+| **Duration**:      |       |
+| **Attack/Save**:   |       |
+| **Damage/Effect**: |       |
+
 **Spell Type**: #Level4 #Necromancy 
 **Casting Time**: #Action 
 **Range**: 30 feet

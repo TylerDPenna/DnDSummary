@@ -1,5 +1,16 @@
 [[Spells]]
 
+| Attributes         | Value |
+| ------------------ | ----- |
+| **Spell Type**:    |       |
+| **Casting Time**:  |       |
+| **Range**:         |       |
+| **Target**:        |       |
+| **Components**:    |       |
+| **Duration**:      |       |
+| **Attack/Save**:   |       |
+| **Damage/Effect**: |       |
+
 **Spell Type**: #Level3 #Evocation 
 **Casting Time**: #BonusAction which you take immediately after hitting a creature with a melee weapon or an Unarmed Strike
 **Target**: #Self 

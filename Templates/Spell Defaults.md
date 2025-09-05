@@ -11,7 +11,6 @@
 | **Attack/Save**:   |       |
 | **Damage/Effect**: |       |
 
-
 # Spell Description: 
 
 

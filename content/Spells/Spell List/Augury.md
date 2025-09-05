@@ -1,5 +1,16 @@
 [[Spells]]
 
+| Attributes         | Value |
+| ------------------ | ----- |
+| **Spell Type**:    |       |
+| **Casting Time**:  |       |
+| **Range**:         |       |
+| **Target**:        |       |
+| **Components**:    |       |
+| **Duration**:      |       |
+| **Attack/Save**:   |       |
+| **Damage/Effect**: |       |
+
 **Spell Type**: #Level2 #Divination 
 **Casting Time**: 1 minute or #Ritual 
 **Target**: #Self 

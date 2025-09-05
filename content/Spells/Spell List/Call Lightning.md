@@ -11,7 +11,6 @@
 | **Attack/Save**:   | #DexteritySave                                 |
 | **Damage/Effect**: | 3d10 [[Lightning]]                             |
 
-
 # Spell Description:
 
 
