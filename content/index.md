@@ -10,5 +10,5 @@ https://github.com/TylerDPenna/DnDSummary
 [[Creature Types]]
 [[Damage Types]]
 [[Monsters]]
-[[Races]]
+[[Species]]
 [[Spells]]
