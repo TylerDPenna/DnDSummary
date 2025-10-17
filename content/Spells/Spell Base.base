@@ -4,10 +4,14 @@ views:
     filters:
       and:
         - file.inFolder("Root/content/Spells/Spell List")
-  - type: cards
-    name: Card
-    filters:
-      and:
-        - file.inFolder("Root/content/Spells/Spell List")
-    imageFit: ""
-    image: file.file
+    order:
+      - file.name
+      - file.links
+      - file.tags
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.links: 462
