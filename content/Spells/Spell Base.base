@@ -1,17 +1,44 @@
+filters:
+  and:
+    - file.inFolder("Root/content/Spells/Spell List")
 views:
   - type: table
-    name: Table
+    name: Base
     filters:
       and:
-        - file.inFolder("Root/content/Spells/Spell List")
+        - file.inFolder("Root/content/Spells/Spell List/Base")
+    order:
+      - file.name
+      - file.tags
+      - file.links
+    sort:
+      - property: file.tags
+        direction: DESC
+      - property: file.folder
+        direction: ASC
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.links: 229
+      file.tags: 333
+    rowHeight: medium
+  - type: table
+    name: HomeBrew
+    filters:
+      and:
+        - file.inFolder("Root/content/Spells/Spell List/Homebrew")
     order:
       - file.name
       - file.links
       - file.tags
     sort:
+      - property: file.tags
+        direction: DESC
+      - property: file.folder
+        direction: ASC
       - property: file.name
         direction: DESC
-      - property: file.tags
-        direction: ASC
     columnSize:
-      file.links: 462
+      file.links: 434
+      file.tags: 575
+    rowHeight: medium
