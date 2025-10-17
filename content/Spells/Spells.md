@@ -171,7 +171,7 @@ The effects of different spells add together while their durations overlap. In c
 [[Burning Hands]]
 ### C
 [[Call Lightning]]
-[[Calm Emotions]]
+[[index]]
 [[Chain Lightning]]
 [[Charm Monster]]
 [[Charm Person]]
