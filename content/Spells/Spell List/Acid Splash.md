@@ -18,4 +18,4 @@ You create an acidic bubble at a point within range, where it explodes in a 5-fo
 
 **Spell Cost**: #NoCost
 
-**Available for**: #SorcererSpell #WizardSpell
+**Available for**: [[Sorcerer]] [[Wizard]]
