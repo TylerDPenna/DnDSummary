@@ -19,4 +19,4 @@ additional creature for each spell slot level above 2.
 
 **Spell Cost**: #NoCost 
 
-**Available for**: #BardSpell #ClericSpell #WizardSpell 
+**Available for**: [[Bard]] #ClericSpell #WizardSpell 

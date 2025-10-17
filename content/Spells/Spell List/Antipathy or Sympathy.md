@@ -25,4 +25,4 @@ As you cast the spell, choose whether it creates antipathy or sympathy, and targ
 
 **Spell Cost**: a mix of vinegar and honey
 
-**Available for**: #BardSpell #DruidSpell #WizardSpell 
+**Available for**: [[Bard]] #DruidSpell #WizardSpell 

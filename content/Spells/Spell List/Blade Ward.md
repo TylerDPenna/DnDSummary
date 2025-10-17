@@ -13,4 +13,4 @@ Whenever a creature makes an attack roll against you before the spell ends, the 
 
 **Spell Cost**: #NoCost 
 
-**Available for**: #BardSpell #SorcererSpell #WarlockSpell #WizardSpell 
+**Available for**: [[Bard]] #SorcererSpell #WarlockSpell #WizardSpell 

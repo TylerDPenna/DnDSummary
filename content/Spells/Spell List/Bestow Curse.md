@@ -21,4 +21,4 @@ You touch a creature, which must succeed on a Wisdom saving throw or become curs
 
 **Spell Cost**: #NoCost 
 
-**Available for**: #BardSpell #ClericSpell #WizardSpell 
+**Available for**: [[Bard]] #ClericSpell #WizardSpell 

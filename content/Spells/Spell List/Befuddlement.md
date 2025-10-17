@@ -17,4 +17,4 @@
 
 **Spell Cost**: a key ring with no keys
 
-**Available for**: #BardSpell #DruidSpell #WarlockSpell #WizardSpell 
+**Available for**: [[Bard]] #DruidSpell #WarlockSpell #WizardSpell 

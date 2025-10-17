@@ -19,4 +19,4 @@ additional [[Beast]] for each spell slot level above 1.
 
 **Spell Cost**: A morsel of food
 
-**Available for**: #BardSpell #DruidSpell #RangerSpell 
+**Available for**: [[Bard]] [[Druid]] [[Ranger]] 
