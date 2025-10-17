@@ -4,3 +4,10 @@ views:
     filters:
       and:
         - file.inFolder("Root/content/Spells/Spell List")
+  - type: cards
+    name: Card
+    filters:
+      and:
+        - file.inFolder("Root/content/Spells/Spell List")
+    imageFit: ""
+    image: file.file
