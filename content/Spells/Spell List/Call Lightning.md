@@ -22,4 +22,4 @@ creases by 1d10 for each spell slot level above 5.
 
 Spell Cost: #NoCost 
 
-Available for: #DruidSpell 
+Available for:  [[Druid]]  

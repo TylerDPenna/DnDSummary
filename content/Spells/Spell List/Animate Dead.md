@@ -21,4 +21,4 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **Spell Cost**: A drop of blood, a piece of flesh and a pinch of bone dust
 
-**Available for**: #WizardSpell #ClericSpell 
+**Available for**:  [[Wizard]]  [[Cleric]] 

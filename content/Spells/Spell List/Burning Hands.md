@@ -18,4 +18,4 @@ A thin sheet of flames shoots forth from you. Each creature in a 15-foot Cone ma
 
 Spell Cost: #NoCost 
 
-**Available for**: #SorcererSpell #WizardSpell 
+**Available for**:  [[Sorcerer]]   [[Wizard]]  

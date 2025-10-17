@@ -14,4 +14,4 @@ You touch a willing [[Beast]]. For the duration, you can perceive through the [[
 
 **Spell Cost**: #NoCost 
 
-**Available for**: #DruidSpell #RangerSpell 
+**Available for**:  [[Druid]]  #RangerSpell 

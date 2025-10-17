@@ -1,23 +1,20 @@
 [[Spells]]
 
-| Attributes         | Value                         |
-| ------------------ | ----------------------------- |
-| **Spell Type**:    | #Level4 #Abjuration           |
-| **Casting Time**:  | #Action                       |
-| **Range**:         | 30 feet                       |
-| **Target**:        | One visible creature          |
-| **Components**:    | #Verbal #Somatic #Material    |
-| **Duration**:      | #Concentration up to 1 minute |
-| **Attack/Save**:   | #CharismaSave                 |
-| **Damage/Effect**: | [[Incapacitated]]             |
+| Attributes         | Value                           |
+| ------------------ | ------------------------------- |
+| **Spell Type**:    | #Level6 #Evocation              |
+| **Casting Time**:  | #Action                         |
+| **Range**:         | 90 feet                         |
+| **Components**:    | #Verbal #Somatic                |
+| **Duration**:      | #Concentration up to 10 minutes |
+| **Attack/Save**:   | #DexteritySave                  |
+| **Damage/Effect**: | 6d10 [[Force]]                  |
 
 # Spell Description: 
-One creature that you can see within range must succeed on a Charisma saving throw or be transported to a harmless [[demiplane]] for the duration. While there, the target has the [[Incapacitated]] condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. 
+You create a wall of whirling blades made of magical energy. The wall appears within range and lasts for the duration. You make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides Three-Quarters [[Cover]], and its space is [[Difficult Terrain]].
 
-If the target is an [[Aberration]], a [[Celestial]], an [[Elemental]], a [[Fey]], or a [[Fiend]], the target doesn't return. If the spell lasts for 1 minute, the target is instead transported to a random location on a plane (DM's choice) associated with its creature type.
+Any creature in the wall's space makes a Dexterity saving throw, taking 6d10 [[Force]] damage on a failed save or half as much damage on a successful one. A creature also makes that save if it enters the wall's space or ends it turn there. A creature makes that save only once per turn.
 
-**Using a Higher-Level Spell Slot**. You can target one additional creature for each spell slot level above 4.
+**Spell Cost**: #NoCost 
 
-**Spell Cost**: a pentacle
-
-**Available for**: #ClericSpell #PaladinSpell #SorcererSpell #WarlockSpell #WizardSpell 
+**Available for**: [[Cleric]] 

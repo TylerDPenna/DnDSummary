@@ -25,4 +25,4 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 
 **Spell Cost**: (specially marked sticks, bones, cards, or other divinatory tokens worth 25+ CP)
 
-**Available for**: #ClericSpell #DruidSpell #WizardSpell 
+**Available for**: [[Cleric]]  [[Druid]]   [[Wizard]]  

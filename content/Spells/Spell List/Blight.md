@@ -20,4 +20,4 @@ Alternatively, target a nonmagical plant that isn't a creature, such as a tree o
 
 **Spell Cost**: #NoCost 
 
-**Available for**: #DruidSpell #SorcererSpell #WarlockSpell #WizardSpell 
+**Available for**:  [[Druid]]   [[Sorcerer]]  #WarlockSpell  [[Wizard]]  

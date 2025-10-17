@@ -16,4 +16,4 @@ You return to the other plane at the start of your next turn and when the spell 
 
 **Spell Cost**: #NoCost 
 
-**Available for**: #SorcererSpell #WizardSpell 
+**Available for**:  [[Sorcerer]]   [[Wizard]]  

@@ -28,4 +28,4 @@ When you cast the spell and as a Bonus Action on your later turns, you can move 
 
 **Spell Cost**: an eggshell and a glove
 
-**Available for**: #SorcererSpell #WizardSpell 
+**Available for**:  [[Sorcerer]]   [[Wizard]]  

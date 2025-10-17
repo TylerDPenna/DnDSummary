@@ -18,4 +18,4 @@ Each target animates, sprouts legs, and becomes a [[Construct]] that uses the [[
 
 **Spell Cost**: #NoCost 
 
-**Available for**: [[Bard]] #SorcererSpell #WizardSpell 
+**Available for**: [[Bard]]  [[Sorcerer]]   [[Wizard]]  

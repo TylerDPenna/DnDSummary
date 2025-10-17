@@ -20,4 +20,4 @@ Dispel Magic has no effect on the aura, and the auras created by different Antim
 
 **Spell Cost**: Iron Filings
 
-**Available for**: #ClericSpell #WizardSpell 
+**Available for**: [[Cleric]] [[Wizard]] 

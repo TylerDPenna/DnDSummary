@@ -14,4 +14,4 @@ Choose any number of creatures within range. For the duration, each target has A
 
 **Spell Cost**: #NoCost 
 
-**Available for**: #ClericSpell 
+**Available for**: [[Cleric]] 

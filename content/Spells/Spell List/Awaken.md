@@ -16,4 +16,4 @@ The awakened target has the [[Charmed]] condition for 3O days or until you or yo
 
 **Spell Cost**: an agate worth 1000+ GP, which the spell consumes
 
-**Available for**: [[Bard]] #DruidSpell 
+**Available for**: [[Bard]]  [[Druid]]  

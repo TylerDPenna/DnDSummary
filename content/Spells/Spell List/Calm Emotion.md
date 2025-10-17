@@ -19,4 +19,4 @@ Each Humanoid in a 20-foot-radius Sphere centred on a point you choose within ra
 
 Spell Cost: #NoCost 
 
-**Available for**: [[Bard]] #ClericSpell 
+**Available for**: [[Bard]] [[Cleric]] 

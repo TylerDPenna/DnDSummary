@@ -14,4 +14,4 @@ You touch a closed door, window, gate, container, or hatch and magically lock it
 
 **Spell Cost**: gold dust worth 25+ GP (Consumed)
 
-**Available for**: #WizardSpell 
+**Available for**:  [[Wizard]]  

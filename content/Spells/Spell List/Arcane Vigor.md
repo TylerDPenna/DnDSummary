@@ -17,4 +17,4 @@ You tap into your life force to heal yourself. Roll one or two of your unexpende
 
 **Spell Cost**: #NoCost 
 
-**Available for**: #SorcererSpell #WizardSpell 
+**Available for**:  [[Sorcerer]]   [[Wizard]]  

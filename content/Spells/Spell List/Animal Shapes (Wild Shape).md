@@ -16,4 +16,4 @@ A target's game statistics are replaced by the chosen [[Beast]]'s statistics, bu
 
 **Spell Cost**: #NoCost
 
-**Available for**: #DruidSpell 
+**Available for**:  [[Druid]]  

@@ -16,4 +16,4 @@ As a Bonus Action, you can move the eye up to 30 feet in any direction. A solid 
 
 **Spell Cost**: A bit of bat fur
 
-**Available for**: #WizardSpell 
+**Available for**:  [[Wizard]]  

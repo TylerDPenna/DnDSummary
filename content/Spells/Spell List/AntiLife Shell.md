@@ -16,4 +16,4 @@ If you move so that an affected creature is forced to pass through the barrier, 
 
 **Spell Cost**: #NoCost 
 
-**Available for**: #DruidSpell 
+**Available for**:  [[Druid]]  

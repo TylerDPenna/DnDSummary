@@ -1,20 +1,21 @@
 [[Spells]]
 
-| Attributes         | Value                           |
-| ------------------ | ------------------------------- |
-| **Spell Type**:    | #Level6 #Evocation              |
-| **Casting Time**:  | #Action                         |
-| **Range**:         | 90 feet                         |
-| **Components**:    | #Verbal #Somatic                |
-| **Duration**:      | #Concentration up to 10 minutes |
-| **Attack/Save**:   | #DexteritySave                  |
-| **Damage/Effect**: | 6d10 [[Force]]                  |
+| Attributes         | Value                          |
+| ------------------ | ------------------------------ |
+| **Spell Type**:    | #Level1 #Enchantment           |
+| **Casting Time**:  | #Action                        |
+| **Range**:         | 30 feet                        |
+| **Target**:        | Up to three creatures in range |
+| **Components**:    | #Verbal #Somatic #Material     |
+| **Duration**:      | #Concentration up to 1 minute  |
+
 
 # Spell Description: 
-You create a wall of whirling blades made of magical energy. The wall appears within range and lasts for the duration. You make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides Three-Quarters [[Cover]], and its space is [[Difficult Terrain]].
+You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds 1d4 to the attack roll or save.
 
-Any creature in the wall's space makes a Dexterity saving throw, taking 6d10 [[Force]] damage on a failed save or half as much damage on a successful one. A creature also makes that save if it enters the wall's space or ends it turn there. A creature makes that save only once per turn.
+**Using a Higher-Level Spell Slot**. You can target one
+additional creature for each spell slot level above 1.
 
-**Spell Cost**: #NoCost 
+**Spell Cost**: a Holy Symbol worth 5+GP
 
-**Available for**: #ClericSpell 
+**Available for**: [[Cleric]] [[Paladin]] 
