@@ -14,4 +14,4 @@ You touch a willing creature. Until the spell ends, the target's skin assumes a 
 
 **Spell Cost**: a handful of bark
 
-**Available for**:  [[Druid]]  #RangerSpell 
+**Available for**:  [[Druid]]  [[Ranger]] 

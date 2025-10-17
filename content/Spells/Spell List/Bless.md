@@ -18,4 +18,4 @@ additional creature for each spell slot level above 1.
 
 **Spell Cost**: a Holy Symbol worth 5+GP
 
-**Available for**: [[Cleric]] #PaladinSpell 
+**Available for**: [[Cleric]]  [[Paladin]] 

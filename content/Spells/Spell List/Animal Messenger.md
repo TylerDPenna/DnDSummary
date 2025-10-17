@@ -23,4 +23,4 @@ You also communicate a message of up to twenty-five words. The [[Beast]] travels
 
 **Spell Cost**: A morsel of food
 
-**Available for**: [[Bard]]  [[Druid]] #RangerSpell 
+**Available for**: [[Bard]]  [[Druid]] [[Ranger]] 

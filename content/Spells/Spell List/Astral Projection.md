@@ -23,4 +23,4 @@ When the spell ends for a target who isn't dead, the target reappears in its bod
 
 **Spell Cost**: for each of the spell's targets, one jacinth worth I,000+ GP and one silver bar worth l00+ GP, (all of which the spell consumes)
 
-**Available for**: [[Cleric]] #WarlockSpell  [[Wizard]]  
+**Available for**: [[Cleric]] [[Warlock]]  [[Wizard]]  

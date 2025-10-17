@@ -15,4 +15,4 @@ An aura radiates from you in a 30-foot Emanation for the duration. When you crea
 
 **Spell Cost**: #NoCost 
 
-**Available for**: [[Cleric]] [[Druid]]  #PaladinSpell 
+**Available for**: [[Cleric]] [[Druid]]   [[Paladin]] 

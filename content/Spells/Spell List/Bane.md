@@ -17,4 +17,4 @@ Up to three creatures of your choice that you can see within range must each mak
 
 **Spell Cost**: a drop of blood
 
-**Available for**: [[Bard]] [[Cleric]] #WarlockSpell 
+**Available for**: [[Bard]] [[Cleric]] [[Warlock]] 

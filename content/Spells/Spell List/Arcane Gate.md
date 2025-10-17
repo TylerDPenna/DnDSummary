@@ -17,4 +17,4 @@ The portals are two-dimensional glowing rings filled with mist that blocks sight
 
 **Spell Cost**: #NoCost 
 
-**Available for**:  [[Sorcerer]]  #WarlockSpell  [[Wizard]]  
+**Available for**:  [[Sorcerer]]  [[Warlock]]  [[Wizard]]  

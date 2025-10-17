@@ -16,4 +16,4 @@ Protective magical frost surrounds you. You gain 5 Temporary Hit Points. If a cr
 
 **Spell Cost**: a shard of blue glass
 
-**Available for**: #WarlockSpell 
+**Available for**: [[Warlock]] 

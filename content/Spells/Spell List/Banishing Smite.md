@@ -17,4 +17,4 @@ While there, the target has the Incapacitated condition. When the spell ends, th
 
 **Spell Cost**: #NoCost 
 
-**Available for**: #PaladinSpell 
+**Available for**:  [[Paladin]] 

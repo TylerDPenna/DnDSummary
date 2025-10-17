@@ -17,4 +17,4 @@ The target hit by the strike takes an extra 5d8 [[Radiant]] damage from the atta
 
 **Spell Cost**: #NoCost 
 
-**Available for**: #PaladinSpell 
+**Available for**:  [[Paladin]] 

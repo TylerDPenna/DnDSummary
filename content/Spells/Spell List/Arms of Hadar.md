@@ -18,4 +18,4 @@ Invoking [[Hadar]], you cause tendrils to erupt from yourself. Each creature in 
 
 **Spell Cost**: #NoCost 
 
-**Available for**: #WarlockSpell 
+**Available for**: [[Warlock]] 
