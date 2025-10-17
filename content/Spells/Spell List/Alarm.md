@@ -20,4 +20,4 @@ You set an alarm against intrusion. Choose a door, a window or an area within ra
 
 **Spell Cost**: a bell and a silver wire
 
-**Available for**: #RangerSpell #WizardSpell 
+**Available for**: [[Ranger]] [[Wizard]] 

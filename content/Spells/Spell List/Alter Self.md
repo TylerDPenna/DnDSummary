@@ -23,4 +23,4 @@ You alter your physical form. Choose one of the following options. Its effects l
 
 **Spell Cost**: #NoCost 
 
-Available for: #SorcererSpell #WizardSpell
+Available for: [[Sorcerer]]  [[Wizard]]
